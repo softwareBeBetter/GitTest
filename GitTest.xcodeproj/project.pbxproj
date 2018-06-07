@@ -15,6 +15,7 @@
 		9225B8F720C93BE2005D1175 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9225B8F620C93BE2005D1175 /* main.m */; };
 		9225B90120C93BE2005D1175 /* GitTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9225B90020C93BE2005D1175 /* GitTestTests.m */; };
 		9225B90C20C93BE2005D1175 /* GitTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9225B90B20C93BE2005D1175 /* GitTestUITests.m */; };
+		9225B91B20C93E52005D1175 /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9225B91A20C93E52005D1175 /* MapViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		9225B90720C93BE2005D1175 /* GitTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9225B90B20C93BE2005D1175 /* GitTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitTestUITests.m; sourceTree = "<group>"; };
 		9225B90D20C93BE2005D1175 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9225B91920C93E52005D1175 /* MapViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MapViewController.h; sourceTree = "<group>"; };
+		9225B91A20C93E52005D1175 /* MapViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MapViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				9225B8E820C93BE0005D1175 /* AppDelegate.m */,
 				9225B8EA20C93BE0005D1175 /* ViewController.h */,
 				9225B8EB20C93BE0005D1175 /* ViewController.m */,
+				9225B91920C93E52005D1175 /* MapViewController.h */,
+				9225B91A20C93E52005D1175 /* MapViewController.m */,
 				9225B8ED20C93BE0005D1175 /* Main.storyboard */,
 				9225B8F020C93BE2005D1175 /* Assets.xcassets */,
 				9225B8F220C93BE2005D1175 /* LaunchScreen.storyboard */,
@@ -265,6 +270,7 @@
 				9225B8EC20C93BE0005D1175 /* ViewController.m in Sources */,
 				9225B8F720C93BE2005D1175 /* main.m in Sources */,
 				9225B8E920C93BE0005D1175 /* AppDelegate.m in Sources */,
+				9225B91B20C93E52005D1175 /* MapViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
