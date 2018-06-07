@@ -18,7 +18,9 @@
   [super viewDidLoad];
   // Do any additional setup after loading the view, typically from a nib.
 }
-
+-(IBAction)test:(id)sender{
+  NSLog(@"this is test");
+}
 
 - (void)didReceiveMemoryWarning {
   [super didReceiveMemoryWarning];
